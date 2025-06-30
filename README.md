@@ -42,8 +42,3 @@ linkedin : https://www.linkedin.com/in/devansh-sharma-70376922b/
 1. ✅ Create a **public GitHub repo** → `Finacplus-Assignment`
 2. ✅ Upload the files (`.cpp`, `.md`, `README.md`)
 3. ✅ Test your code output
-4. ✅ Submit the repo link in the [AccioJob Submission Form](https://forms.acciojob.com/r/mZXAe5)
-
----
-
-Would you like me to help **write commit messages** or verify your final GitHub folder before submission?
